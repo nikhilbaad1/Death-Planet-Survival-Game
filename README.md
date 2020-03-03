@@ -7,4 +7,4 @@ Scripts are in ```Assets```
 
 
 ### Screenshot
-![Screenshot]()
+![Screenshot](https://github.com/nikhilbaad1/Death-Planet-Survival-Game/blob/master/SC.png)
